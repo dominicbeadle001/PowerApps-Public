@@ -10,7 +10,7 @@ Menu Creator Power App - V1.01
 Purpose: Allows for quick & easy construction of an expandable sidebar menu which can be used in your own Power Apps.
 
 PLEASE NOTE: 
-In order to copy/paste and use the OUTPUT from this app, you will need to be running it in the Editor (so don't 'Play' the app, 'Edit' it in the Powerapps Studio and then run in preview mode).
+In order to copy/paste and use the OUTPUT from this app, you will need to be running it in the Editor (so don't 'Play' the app, 'Edit' it in the Powerapps Maker Portal and then run in preview mode).
 
 
 Bugs or questions: dominic.beadle@gmail.com
